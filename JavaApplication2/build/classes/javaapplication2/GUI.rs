@@ -1,0 +1,15 @@
+com.mycompany.e.commerce_platform.GUI$2
+com.mycompany.e.commerce_platform.GUI$1
+com.mycompany.e.commerce_platform.GUI$6
+com.mycompany.e.commerce_platform.GUI$11
+com.mycompany.e.commerce_platform.GUI$5
+com.mycompany.e.commerce_platform.GUI$10
+com.mycompany.e.commerce_platform.GUI$4
+com.mycompany.e.commerce_platform.GUI$3
+com.mycompany.e.commerce_platform.GUI
+com.mycompany.e.commerce_platform.GUI$9
+com.mycompany.e.commerce_platform.GUI$14
+com.mycompany.e.commerce_platform.GUI$8
+com.mycompany.e.commerce_platform.GUI$13
+com.mycompany.e.commerce_platform.GUI$7
+com.mycompany.e.commerce_platform.GUI$12
